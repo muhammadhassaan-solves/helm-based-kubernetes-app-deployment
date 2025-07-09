@@ -17,27 +17,27 @@ This project demonstrates how to deploy and manage an Apache web server on Kuber
 
 <p align="center">
 1. Install Helm and Add Charts Repositories <br />
-<img src="https://i.postimg.cc/MKbQfpyd/1.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/MKbQfpyd/1.jpg"/>
 <br />
 <br />
 2. Deploy Apache Web Server Using Helm <br/>
-<img src="https://i.postimg.cc/9fSRHRhF/2.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/9fSRHRhF/2.jpg" />
 <br />
 <br />
 3. Access Apache Locally <br/>
-<img src="https://i.postimg.cc/XqKp5syp/3.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/XqKp5syp/3.jpg" />
 <br />
 <br />
 4. Customize Helm Chart <br/>
-<img src="https://i.postimg.cc/3NZxNWPG/4.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/3NZxNWPG/4.jpg" />
 <br />
 <br />
 5. Customize Helm Chart without file <br/>
-<img src="https://i.postimg.cc/c46prvyN/5.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/c46prvyN/5.jpg" height="80%" />
 <br />
 <br />
 6. Helm Management (Release history, Rollback) <br/>
-<img src="https://i.postimg.cc/gct5FGwt/6.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/gct5FGwt/6.jpg" />
 <br />
 <br />
 
