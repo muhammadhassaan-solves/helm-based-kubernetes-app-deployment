@@ -33,7 +33,7 @@ This project demonstrates how to deploy and manage an Apache web server on Kuber
 <br />
 <br />
 5. Customize Helm Chart without file <br/>
-<img src="https://i.postimg.cc/c46prvyN/5.jpg" height="80%" />
+<img src="https://i.postimg.cc/c46prvyN/5.jpg" />
 <br />
 <br />
 6. Helm Management (Release history, Rollback) <br/>
