@@ -11,7 +11,7 @@ This project demonstrates how to deploy and manage an Apache web server on Kuber
 - Bitnami Apache Chart 
 - kubectl 
 - YAML 
-- Linux Shell 
+
 
 <h2>Project Walk-through</h2>
 
